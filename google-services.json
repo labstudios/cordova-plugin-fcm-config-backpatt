@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "655825163965",
+    "firebase_url": "https://backpatt-e0b7e.firebaseio.com",
+    "project_id": "backpatt-e0b7e",
+    "storage_bucket": "backpatt-e0b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655825163965:android:0a5373469d4c4c0b",
+        "android_client_info": {
+          "package_name": "com.backpatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655825163965-f78agiicvbfap9nnuob0rnku5ioup3ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdlT5_5xHrGzL3RD4MieBJs6zPOP5s-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
